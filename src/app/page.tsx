@@ -1,10 +1,10 @@
-import * as React from 'react';
-import { Box } from '@mui/material';
+import * as React from "react";
+import { Typography } from "@mui/material";
 
 export default function HomePage() {
   return (
-    <Box>
-      Hello World
-    </Box>
+    <Typography>
+      MUI example. Please put the code to reproduce the issue in src/App.tsx
+    </Typography>
   );
 }
